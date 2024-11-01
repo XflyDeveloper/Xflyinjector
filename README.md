@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/stars/Xflydeveloper/Xflyinjector" alt="Stars">
   <img src="https://img.shields.io/github/forks/Xflydeveloper/Xflyinjector" alt="Forks">
 </p>
-<p><img src="https://i.ibb.co/PcZgF39/cc.jpg" alt="Preview"></p>
+<p><img src="https://i.ibb.co/YDjFwNd/cc.jpg" alt="Preview"></p>
 
 <h2 id="about">About Xfly Injector</h2>
 <p>Our open source injector was made so you can inject dlls right into rocket league, with almost 0 problems, easy to use, but also safe.</p>
