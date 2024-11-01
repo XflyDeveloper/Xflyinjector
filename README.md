@@ -6,7 +6,7 @@
   <p align="center">
     A rocket league Dll injector
     <br/>
-    <a href="https://discord.gg/Mv4YQAK8F2">Our Website</a>
+    <a href="https://xflyinjector.netlify.app">Our Website</a>
   </p>
 </p>
 
