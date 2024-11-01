@@ -22,7 +22,7 @@
 </p>
 <p><img src="https://i.ibb.co/PcZgF39/cc.jpg" alt="Preview"></p>
 
-<h2 id="about">About Xfly Injecter</h2>
+<h2 id="about">About Xfly Injector</h2>
 <p>Our open source injector was made so you can inject dlls right into rocket league, with almost 0 problems, easy to use, but also safe.</p>
 
 <h2>WARNING</h2>
